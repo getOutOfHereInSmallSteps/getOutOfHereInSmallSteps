@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IM-12</code>
+<code>🎓 Student: VNTU / FITCE</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
