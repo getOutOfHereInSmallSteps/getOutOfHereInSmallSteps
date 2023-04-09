@@ -1,10 +1,8 @@
 <code>🎓 Student: VNTU / FITCE</code>
-<code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 1](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: React</code>
 <code>🪙 [Rates](RATES.md)</code><br>
